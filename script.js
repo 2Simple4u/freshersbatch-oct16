@@ -1,1 +1,2 @@
-var v= 34
+var v
+var c
